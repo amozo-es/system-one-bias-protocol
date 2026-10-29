@@ -1,0 +1,13 @@
+# keys and local state
+.env
+results/
+runs/
+datasets/
+models/
+
+# python
+__pycache__/
+*.pyc
+
+# launch-script outputs
+*.log

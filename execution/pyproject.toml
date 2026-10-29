@@ -1,0 +1,22 @@
+[project]
+name = "system-one-bias"
+version = "1.0.0"
+description = "Audit protocol for demographic bias in typed decision models (BBQ, CrowS-Pairs, SilverSpoon)"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface_hub>=0.24",
+    "requests>=2.31",
+]
+
+[project.optional-dependencies]
+# causal-LM kinds (hf_letter / hf_lora / hf_reasoning / hf_typed) and clef
+gpu = ["torch>=2.7.0", "transformers>=4.51.0", "accelerate>=0.34.0", "peft>=0.13.0",
+       "sentencepiece", "protobuf", "pillow"]
+# encoder scorers (pip extras, imported on demand)
+laya = ["laya==0.3.5"]
+von = ["von-sdk>=1.3.7"]
+# analysis/ scripts that use numpy (analyze_accuracy, analyze_seed_stability --tests)
+analysis = ["numpy>=2.0"]
+
+[tool.uv]
+package = false
