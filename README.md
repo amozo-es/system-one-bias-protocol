@@ -5,7 +5,7 @@
 Alejandro Mozo Quesada · Sergio Gálvez Rojas · Francisco López Valverde — Universidad de Málaga
 
 ![arXiv](https://img.shields.io/badge/arXiv-PENDING-b31b1b.svg)
-![Zenodo DOI](https://img.shields.io/badge/Zenodo%20DOI-PENDING-blue.svg)
+[![DOI](https://img.shields.io/badge/Zenodo%20DOI-10.5281%2Fzenodo.23763681-blue.svg)](https://doi.org/10.5281/zenodo.23763681)
 [![Hugging Face dataset](https://img.shields.io/badge/dataset-amozo%2Fsystem--one--bias--audit-yellow.svg)](https://huggingface.co/datasets/amozo/system-one-bias-audit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
