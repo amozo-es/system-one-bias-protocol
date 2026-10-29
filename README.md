@@ -2,7 +2,7 @@
 
 ### A Protocol for Auditing Demographic Bias in System One Decision Models
 
-Alejandro Mozo Quesada · Sergio Gálvez Rojas — Universidad de Málaga
+Alejandro Mozo Quesada · Sergio Gálvez Rojas · Francisco López Valverde — Universidad de Málaga
 
 [![arXiv](https://img.shields.io/badge/arXiv-PENDING-b31b1b)]()
 [![DOI](https://img.shields.io/badge/Zenodo-DOI-PENDING-blue)]()
