@@ -4,9 +4,9 @@
 
 Alejandro Mozo Quesada · Sergio Gálvez Rojas · Francisco López Valverde — Universidad de Málaga
 
-[![arXiv](https://img.shields.io/badge/arXiv-PENDING-b31b1b)]()
-[![DOI](https://img.shields.io/badge/Zenodo-DOI-PENDING-blue)]()
-[![Hugging Face dataset](https://img.shields.io/badge/%F0%9F%A4%97-dataset-amozo/system--one--bias--audit-yellow)](https://huggingface.co/datasets/amozo/system-one-bias-audit)
+![arXiv](https://img.shields.io/badge/arXiv-PENDING-b31b1b.svg)
+![Zenodo DOI](https://img.shields.io/badge/Zenodo%20DOI-PENDING-blue.svg)
+[![Hugging Face dataset](https://img.shields.io/badge/dataset-amozo%2Fsystem--one--bias--audit-yellow.svg)](https://huggingface.co/datasets/amozo/system-one-bias-audit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Typed decision models answer structured questions with calibrated probabilities
@@ -30,7 +30,8 @@ SilverSpoon.
 Adapt, do not invent: the protocol adapts three established benchmarks —
 BBQ (all eleven categories), CrowS-Pairs (nine bias types), and SilverSpoon —
 re-rendered onto the typed interface. The adapted items are on
-[Hugging Face](https://huggingface.co/datasets/amozo/system-one-bias-audit).
+[Hugging Face](https://huggingface.co/datasets/amozo/system-one-bias-audit)
+(CC BY-SA 4.0, public).
 
 ## Repository layout
 
