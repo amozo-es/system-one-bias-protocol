@@ -75,7 +75,8 @@ the paper (~2.3 GB) are available on request.
 @inproceedings{mozo2026swap,
   title     = {Swap, Replicate, Read the Mass: A Protocol for Auditing
                Demographic Bias in System One Decision Models},
-  author    = {Mozo Quesada, Alejandro and G{\'a}lvez Rojas, Sergio},
+  author    = {Mozo Quesada, Alejandro and G{\'a}lvez Rojas, Sergio and
+               L{\'o}pez Valverde, Francisco},
   year      = {2026},
   note      = {arXiv preprint coming soon}
 }
